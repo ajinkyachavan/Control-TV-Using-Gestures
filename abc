@@ -1,0 +1,4 @@
+#!/bin/sh -x
+echo 'bruhhhhhhhhhh';
+sudo cp /home/ajinkya/Downloads/fieldata.pdf /home/ajinkya/Downloads/pics
+

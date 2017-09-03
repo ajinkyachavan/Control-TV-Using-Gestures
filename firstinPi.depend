@@ -1,0 +1,235 @@
+# depslib dependency file v1.0
+1428261742 source:/home/pi/Desktop/firstinPi/firstinPi/main.cpp
+	"opencv2/imgproc/imgproc.hpp"
+	"opencv2/imgproc/types_c.h"
+	"opencv2/highgui/highgui_c.h"
+	<opencv2/opencv.hpp>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	"myImage.cpp"
+	"myImage.hpp"
+	"roi.cpp"
+	"roi.hpp"
+	"handGesture.cpp"
+	"handGesture.hpp"
+	<vector>
+	<cmath>
+	"main.hpp"
+
+1428237713 /home/pi/Desktop/firstinPi/firstinPi/myImage.cpp
+	"myImage.hpp"
+	<opencv2/imgproc/imgproc.hpp>
+	<opencv2/opencv.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+
+1427770498 /home/pi/Desktop/firstinPi/firstinPi/myImage.hpp
+	<opencv2/imgproc/imgproc.hpp>
+	<opencv2/opencv.hpp>
+	<vector>
+
+1427770500 /home/pi/Desktop/firstinPi/firstinPi/roi.cpp
+	"myImage.hpp"
+	<opencv2/imgproc/imgproc.hpp>
+	<opencv2/opencv.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	"roi.hpp"
+
+1427770500 /home/pi/Desktop/firstinPi/firstinPi/roi.hpp
+	<opencv2/imgproc/imgproc.hpp>
+	<opencv2/opencv.hpp>
+
+1428193538 /home/pi/Desktop/firstinPi/firstinPi/handGesture.cpp
+	"handGesture.hpp"
+	<opencv2/imgproc/imgproc.hpp>
+	<opencv2/opencv.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	<unistd.h>
+	<fstream>
+
+1427770498 /home/pi/Desktop/firstinPi/firstinPi/handGesture.hpp
+	<opencv2/imgproc/imgproc.hpp>
+	<opencv2/opencv.hpp>
+	<vector>
+	<string>
+	"main.hpp"
+	"myImage.hpp"
+
+1427770498 /home/pi/Desktop/firstinPi/firstinPi/main.hpp
+	<opencv2/imgproc/imgproc.hpp>
+	<opencv2/opencv.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+
+1428241942 source:/media/ajinkya/UUI/firstinPi/firstinPi/main.cpp
+	"opencv2/imgproc/imgproc.hpp"
+	"opencv2/imgproc/types_c.h"
+	"opencv2/highgui/highgui_c.h"
+	<opencv2/opencv.hpp>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	"myImage.cpp"
+	"myImage.hpp"
+	"roi.cpp"
+	"roi.hpp"
+	"handGesture.cpp"
+	"handGesture.hpp"
+	<vector>
+	<cmath>
+	"main.hpp"
+
+1428217912 /media/ajinkya/UUI/firstinPi/firstinPi/myImage.cpp
+	"myImage.hpp"
+	<opencv2/imgproc/imgproc.hpp>
+	<opencv2/opencv.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+
+1427750698 /media/ajinkya/UUI/firstinPi/firstinPi/myImage.hpp
+	<opencv2/imgproc/imgproc.hpp>
+	<opencv2/opencv.hpp>
+	<vector>
+
+1427750700 /media/ajinkya/UUI/firstinPi/firstinPi/roi.cpp
+	"myImage.hpp"
+	<opencv2/imgproc/imgproc.hpp>
+	<opencv2/opencv.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	"roi.hpp"
+
+1427750700 /media/ajinkya/UUI/firstinPi/firstinPi/roi.hpp
+	<opencv2/imgproc/imgproc.hpp>
+	<opencv2/opencv.hpp>
+
+1428173738 /media/ajinkya/UUI/firstinPi/firstinPi/handGesture.cpp
+	"handGesture.hpp"
+	<opencv2/imgproc/imgproc.hpp>
+	<opencv2/opencv.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	<unistd.h>
+	<fstream>
+
+1427750698 /media/ajinkya/UUI/firstinPi/firstinPi/handGesture.hpp
+	<opencv2/imgproc/imgproc.hpp>
+	<opencv2/opencv.hpp>
+	<vector>
+	<string>
+	"main.hpp"
+	"myImage.hpp"
+
+1427750698 /media/ajinkya/UUI/firstinPi/firstinPi/main.hpp
+	<opencv2/imgproc/imgproc.hpp>
+	<opencv2/opencv.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+
+1428241942 source:/media/ajinkya/data/raspberry_pi/raspi_stuff/firstinPi/firstinPi/main.cpp
+	"opencv2/imgproc/imgproc.hpp"
+	"opencv2/imgproc/types_c.h"
+	"opencv2/highgui/highgui_c.h"
+	<opencv2/opencv.hpp>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	"myImage.cpp"
+	"myImage.hpp"
+	"roi.cpp"
+	"roi.hpp"
+	"handGesture.cpp"
+	"handGesture.hpp"
+	<vector>
+	<cmath>
+	"main.hpp"
+
+1428217912 /media/ajinkya/data/raspberry_pi/raspi_stuff/firstinPi/firstinPi/myImage.cpp
+	"myImage.hpp"
+	<opencv2/imgproc/imgproc.hpp>
+	<opencv2/opencv.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+
+1427750698 /media/ajinkya/data/raspberry_pi/raspi_stuff/firstinPi/firstinPi/myImage.hpp
+	<opencv2/imgproc/imgproc.hpp>
+	<opencv2/opencv.hpp>
+	<vector>
+
+1427750700 /media/ajinkya/data/raspberry_pi/raspi_stuff/firstinPi/firstinPi/roi.cpp
+	"myImage.hpp"
+	<opencv2/imgproc/imgproc.hpp>
+	<opencv2/opencv.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	"roi.hpp"
+
+1427750700 /media/ajinkya/data/raspberry_pi/raspi_stuff/firstinPi/firstinPi/roi.hpp
+	<opencv2/imgproc/imgproc.hpp>
+	<opencv2/opencv.hpp>
+
+1428173738 /media/ajinkya/data/raspberry_pi/raspi_stuff/firstinPi/firstinPi/handGesture.cpp
+	"handGesture.hpp"
+	<opencv2/imgproc/imgproc.hpp>
+	<opencv2/opencv.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	<unistd.h>
+	<fstream>
+
+1427750698 /media/ajinkya/data/raspberry_pi/raspi_stuff/firstinPi/firstinPi/handGesture.hpp
+	<opencv2/imgproc/imgproc.hpp>
+	<opencv2/opencv.hpp>
+	<vector>
+	<string>
+	"main.hpp"
+	"myImage.hpp"
+
+1427750698 /media/ajinkya/data/raspberry_pi/raspi_stuff/firstinPi/firstinPi/main.hpp
+	<opencv2/imgproc/imgproc.hpp>
+	<opencv2/opencv.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+
